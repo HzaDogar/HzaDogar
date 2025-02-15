@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HzaDogars
+- 👋 Hi, I’m @HzaDogar
 - 👀 I’m interested in ... Web Developements
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
